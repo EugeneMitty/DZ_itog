@@ -1,0 +1,18 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DZ_itog.sln
+/DZ_itog/obj/project.nuget.cache
+/DZ_itog/obj/project.assets.json
+/DZ_itog/obj/DZ_itog.csproj.nuget.g.targets
+/DZ_itog/obj/DZ_itog.csproj.nuget.g.props
+/DZ_itog/obj/DZ_itog.csproj.nuget.dgspec.json
+/DZ_itog/obj/Debug/net6.0/DZ_itog.GlobalUsings.g.cs
+/DZ_itog/obj/Debug/net6.0/DZ_itog.GeneratedMSBuildEditorConfig.editorconfig
+/DZ_itog/obj/Debug/net6.0/DZ_itog.csproj.AssemblyReference.cache
+/DZ_itog/obj/Debug/net6.0/DZ_itog.assets.cache
+/DZ_itog/obj/Debug/net6.0/DZ_itog.AssemblyInfoInputs.cache
+/DZ_itog/obj/Debug/net6.0/DZ_itog.AssemblyInfo.cs
+/DZ_itog/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
